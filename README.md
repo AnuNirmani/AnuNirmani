@@ -1,7 +1,9 @@
 <h1 align="center">Hello 👋, I'm Anuttara Nirmani</h1>
 <h3 align="center">A Full Stack Developer mainly passionate about Frontend 🚀</h3>
 
-<img align="right" alt="coding" width="400" src="https://your-image-link.gif" />
+<img align="right" alt="coding" width="400" src="[https://your-image-link.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmg2dnd1cm8wOTd6N3Z3YXhvcjBveTVkZDdtam5qYWZydXg2M3FhZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/BferOKonYOspm28AiB/giphy.gif)" />
+
+---
 
 - 🔭 I’m currently working on **Wijeya Newspapers Ltd**
 - 🌱 I’m currently learning **AL & ML**
