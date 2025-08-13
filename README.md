@@ -1,3 +1,5 @@
+<img align="right" width="823" height="171"  src="banner.png" /> </br> </br>
+
 <h1 align="center">Hello 👋, I'm Anuttara Nirmani</h1>
 <h3 align="center">A Full Stack Developer mainly passionate about Frontend 🚀</h3>
 
@@ -77,24 +79,5 @@
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 </p>
 
-
 ---
 
-### 🌍 Volunteering For:
-
-<p align="center">
-<a href="https://linkedin.com/in/anuttara-nirmani"><img src="images/ieee.png" height="110" width="110" ></img></a>
-<a href="https://linkedin.com/in/anuttara-nirmani"><img src="images/nibm_cs.png" height="110" width="110"></img></a>
-<a href="https://linkedin.com/in/anuttara-nirmani"><img src="images/nibm_mlsc.png" height="110" width="110"></img></a>
-</center>
-
----
-
-## 💯 Statistics :
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AnuNirmani&show_icons=true&theme=radical&locale=en&layout=compact" alt="AnuNirmani" /></p>
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AnuNirmani&theme=radical" alt="AnuNirmani" /></p>
-
----
