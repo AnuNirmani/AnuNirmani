@@ -1,4 +1,4 @@
-<img align="right" width="823" height="171"  src="banner.png" /> </br> </br>
+<!--<img align="right" width="823" height="171"  src="banner.png" /> </br> </br>-->
 
 <h1 align="center">Hello 👋, I'm Anuttara Nirmani</h1>
 <h3 align="center">A Full Stack Developer mainly passionate about Frontend 🚀</h3>
@@ -96,5 +96,15 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AnuNirmani&show_icons=true&theme=radical&locale=en&layout=compact" alt="AnuNirmani" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AnuNirmani&theme=radical" alt="AnuNirmani" /></p>
+
+<p><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnuNirmani&theme=github_dark" width="48%" alt="GitHub Summary Card" /></p>
+
+---
+
+### 🔥 GitHub Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnuNirmani&theme=react-dark&area=true&hide_border=true&line=6A5ACD&point=FFA500&color=9F7AEA&bg_color=00000000" width="90%" alt="Contribution Graph" />
+</p>
 
 ---
