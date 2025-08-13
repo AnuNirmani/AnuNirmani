@@ -6,8 +6,8 @@
 - 🔭 I’m currently working on **Wijeya Newspapers Ltd**
 - 🌱 I’m currently learning **AL & ML**
 - 👯 I’m looking for oppertutinies as a **Frontend Developer**
-- 💬 Ask me about **Frontend technologies**
-- ⚡ Fun fact **I'm a solo traveller**
+- 💬 Ask me about **Flutter**
+- ⚡ BTW **I'm a solo traveller**
 
 ---
 
@@ -80,3 +80,12 @@
 
 ---
 
+### 🌍 Volunteering For:
+
+<p align="center">
+<a href="https://linkedin.com/in/anuttara-nirmani"><img src="images/ieee.png" height="110" width="110" ></img></a>
+<a href="https://linkedin.com/in/anuttara-nirmani"><img src="images/nibm_cs.png" height="110" width="110"></img></a>
+<a href="https://linkedin.com/in/anuttara-nirmani"><img src="images/nibm_mlsc.png" height="110" width="110"></img></a>
+</center>
+
+---
