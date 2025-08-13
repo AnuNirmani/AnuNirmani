@@ -1,21 +1,20 @@
-<h1 align="center">Hello 👋, I'm Your Name</h1>
-<h3 align="center">A passionate [Your field] from [Your Country]</h3>
+<h1 align="center">Hello 👋, I'm Anuttara Nirmani</h1>
+<h3 align="center">A Full Stack Developer mainly passionate about Frontend 🚀</h3>
 
 <img align="right" alt="coding" width="400" src="https://your-image-link.gif" />
 
-- 🔭 I’m currently working on **[Your project or company]**
-- 🌱 I’m currently learning **[Skills]**
-- 👯 I’m looking to collaborate on **[Projects]**
-- 📝 I write articles on [your blog link](https://example.com)
-- 💬 Ask me about **[Topics]**
-- ⚡ Fun fact **[Something interesting]**
+- 🔭 I’m currently working on **Wijeya Newspapers Ltd**
+- 🌱 I’m currently learning **AL & ML**
+- 👯 I’m looking for oppertutinies as a **Frontend Developer**
+- 💬 Ask me about **Frontend technologies**
+- ⚡ Fun fact **I'm a solo traveller**
 
 ---
 
 ### 📫 Connect with Me:
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourhandle)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/anuttara-nirmani)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://instagram.com/yourhandle](https://www.instagram.com/_anunirmani_04__/))
 
 ---
 
