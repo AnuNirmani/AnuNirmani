@@ -81,10 +81,20 @@
 
 ---
 
-## 🌍 Volunteering For:
+### 🌍 Volunteering For:
 
+<p align="center">
 <a href="https://linkedin.com/in/anuttara-nirmani"><img src="images/nibm_cs.png" height="110" width="110"></img></a>
 <a href="https://linkedin.com/in/anuttara-nirmani"><img src="images/nibm_mlsc.png" height="110" width="110"></img></a>
 <a href="https://linkedin.com/in/anuttara-nirmani"><img src="images/ieee.png" height="110" width="110" ></img></a>
+</p>
+
+---
+
+### 💯 Statistics :
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AnuNirmani&show_icons=true&theme=radical&locale=en&layout=compact" alt="AnuNirmani" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AnuNirmani&theme=radical" alt="AnuNirmani" /></p>
 
 ---
