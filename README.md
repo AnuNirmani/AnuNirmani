@@ -29,7 +29,7 @@
 
 ---
 
-### 🛠 My Tech Stack
+### 🛠 My Tech Stack:
 <p>
   <!-- Row 1 -->
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -91,7 +91,7 @@
 
 ---
 
-### 💯 Statistics :
+### 💯 Statistics:
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AnuNirmani&show_icons=true&theme=radical&locale=en&layout=compact" alt="AnuNirmani" /></p>
 
@@ -101,7 +101,7 @@
 
 ---
 
-### 🔥 GitHub Contribution Graph
+### 🔥 GitHub Contribution Graph:
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnuNirmani&theme=react-dark&area=true&hide_border=true&line=6A5ACD&point=FFA500&color=9F7AEA&bg_color=00000000" width="90%" alt="Contribution Graph" />
