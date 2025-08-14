@@ -84,9 +84,9 @@
 ### 🌍 Volunteering For:
 
 <p align="center">
+  <a href="https://linkedin.com/in/anuttara-nirmani"><img src="images/ieee.png" height="110" width="110" ></img></a>
 <a href="https://linkedin.com/in/anuttara-nirmani"><img src="images/nibm_cs.png" height="110" width="110"></img></a>
 <a href="https://linkedin.com/in/anuttara-nirmani"><img src="images/nibm_mlsc.png" height="110" width="110"></img></a>
-<a href="https://linkedin.com/in/anuttara-nirmani"><img src="images/ieee.png" height="110" width="110" ></img></a>
 </p>
 
 ---
