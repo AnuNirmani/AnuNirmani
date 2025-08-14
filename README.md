@@ -1,4 +1,4 @@
-<!--<img align="right" width="823" height="171"  src="banner.png" /> </br> </br>-->
+<img align="right" width="823" height="171"  src="mages/banner.png" /> </br> </br>
 
 <h1 align="center">Hello 👋, I'm Anuttara Nirmani</h1>
 <h3 align="center">A Full Stack Developer mainly passionate about Frontend 🚀</h3>
