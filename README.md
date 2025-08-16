@@ -1,4 +1,4 @@
-<img align="right" width="823" height="700"  src="images/banner.png" /> </br> </br>
+<img align="right" width="823" height="600"  src="images/banner.png" /> </br> </br>
 
 <h1 align="center">Hello 👋, I'm Anuttara Nirmani</h1>
 <h3 align="center">A Full Stack Developer mainly passionate about Frontend 🚀</h3>
