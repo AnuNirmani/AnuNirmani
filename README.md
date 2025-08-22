@@ -6,7 +6,7 @@
 ---
 
 - 🔭 I’m currently working on **Wijeya Newspapers Ltd**
-- 🌱 I’m currently learning **AL & ML**
+- 🌱 I’m currently learning **AI & ML**
 - 👯 I’m looking for oppertutinies as a **Frontend Developer**
 - 💬 Ask me about **Flutter**
 - ⚡ BTW **I'm a solo traveller**
@@ -104,7 +104,10 @@
 ### 🔥 GitHub Contribution Graph:
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnuNirmani&theme=react-dark&area=true&hide_border=true&line=6A5ACD&point=FFA500&color=9F7AEA&bg_color=00000000" width="90%" alt="Contribution Graph" />
+  <a href="https://github-readme-activity-graph.vercel.app/graph?username=AnuNirmani&theme=react-dark&area=true&hide_border=true&line=6A5ACD&point=FFA500&color=9F7AEA&bg_color=00000000">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnuNirmani&theme=react-dark&area=true&hide_border=true&line=6A5ACD&point=FFA500&color=9F7AEA&bg_color=00000000" width="90%" alt="Contribution Graph" />
+  </a>
 </p>
+
 
 ---
